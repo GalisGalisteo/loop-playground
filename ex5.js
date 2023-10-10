@@ -8,7 +8,7 @@
  * ATENCIÓN: SOLO puedes cambiar el valor de la variable 'veces' para conseguirlo
  */
 
-let veces = 5;
+let veces = 15;
 
 // PROHIBIDO modificar el código a partir de aquí
 
