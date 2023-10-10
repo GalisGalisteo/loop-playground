@@ -24,6 +24,10 @@
 
         palabra = prompt("Escribe la palabra secreta");
 
+        while (palabra !== palabraSecreta) {
+            palabra = prompt("Escribe la palabra secreta");
+        }
+
         // NO TOCAR a partir de aquí
 
         document.querySelector("#mensaje").textContent = "Enhorabuena! Has adivinado la palabra secreta";
